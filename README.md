@@ -1,5 +1,4 @@
-<p>Hello I'm Satorikeiko07<p>
-<p>Im learning Lua and HTML<p>
+<p>Hello I'm Satorikeiko07 Im learning Lua and HTML</p>
 
 My tools:
 
