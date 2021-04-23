@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Satorikeiko07
-- 👀 I’m interested in Lua proggramming, gaming, and youtube-dl
-- 🌱 I’m currently learning Lua
-- 📫 How to reach me
-    discord:
-    satokoi`Д´.exe ᶦˢ ⁿᵒᵗ ʷᵒʳᵏᶦⁿᵍ#7184
+Hello I'm Satorikeiko07
+Im learning Lua and HTML
 
 My tools:
 
 <a href="https://love2d.org/">Love2D<a>
+<a href="https://code.visualstudio.com/">Visual Studio Code<a>
+<a href="https://nodejs.org/en/">node.js<a>
+<a href="">windows powershell<a>
