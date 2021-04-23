@@ -16,6 +16,4 @@ My tools:
   </li>
   </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Satorikeiko07&theme=tokyonight)
-
-![](https://s3.gifyu.com/images/56ieua.gif)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Satorikeiko07&theme=tokyonight)![](https://s3.gifyu.com/images/56ieua.gif)
