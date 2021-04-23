@@ -5,8 +5,6 @@
     discord:
     satokoi`Д´.exe ᶦˢ ⁿᵒᵗ ʷᵒʳᵏᶦⁿᵍ#7184
 
-![](https://visitor-badge.laobi.icu/badge?page_id=Satorikeiko.Satorikeiko07)        [![Github](https://img.shields.io/github/followers/Satorikeiko07?label=Follow&style=social)](https://github.com/Satorikeiko07)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Satorikeiko07&theme=tokyonight)
 My tools:
+
 <a href="https://love2d.org/">Love2D<a>
