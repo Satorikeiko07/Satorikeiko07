@@ -19,5 +19,3 @@ My tools:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Satorikeiko07&theme=tokyonight)
 
 ![](https://s3.gifyu.com/images/56ieua.gif)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kpfisl0VFm4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
