@@ -1,4 +1,4 @@
-<p>Hello I'm Satorikeiko07,I'-oo999llllllllllllllTML</p>
+<p>Hello I'm Satorikeiko07, I'm learning HTML and lua</p>
 
 My tools:
 <li>
