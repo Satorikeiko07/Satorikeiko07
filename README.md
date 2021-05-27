@@ -1,24 +1,5 @@
-<p>Hello I'm Satorikeiko07, I'm learning HTML and lua</p>
+## Hello I'm Satorikeiko07 
+A junior programmer trying to learn various things
 
-My tools:
-<p align="center">
-<li>
-<a href="https://love2d.org/">Love2D<a>
-  </li>
- <li>
-<a href="https://code.visualstudio.com/">Visual Studio Code<a>
-  </li>
-<li>
-<a href="https://nodejs.org/en/">node.js<a>
-  </li>
-<li>
-<a>windows powershell<a>
-  </li>
-  </p>
-My Proggraming languages
- <li>
-  <a href="http://www.lua.org/">Lua<a>
- </li>
- <li>
-   <a href="https://www.python.org/">Python</a>
-    </li>
+### My Languages and tools
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
